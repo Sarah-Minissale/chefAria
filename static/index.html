@@ -1,115 +1,145 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Chef Aria, il chatbot per ricette light in friggitrice ad aria.">
-    <title>Chef Aria | Ricette in friggitrice ad aria</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Fraunces:opsz,wght@9..144,600;9..144,700&amp;display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/static/style.css">
-</head>
-<body>
-    <div class="page-shell">
-        <aside class="brand-panel" aria-label="Presentazione di Chef Aria">
-            <div class="brand">
-                <span class="brand-mark" aria-hidden="true">
-                    <svg viewBox="0 0 48 48">
-                        <path d="M14 24.5a8.5 8.5 0 0 1 3.1-16.4A10 10 0 0 1 35 13.8a7 7 0 0 1-1 13.9V35H14V24.5Z"/>
-                        <path d="M18 29v6m6-6v6m6-6v6M14 39h20"/>
-                    </svg>
-                </span>
-                <span>Chef Aria</span>
-            </div>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            name="description"
+            content="Chef Aria di Napoli, ricette light per la friggitrice ad aria."
+        />
+        <title>Chef Aria di Napoli</title>
+        <link rel="stylesheet" href="/static/style.css" />
+    </head>
+    <body>
+        <div class="tricolore" aria-hidden="true">
+            <span></span><span></span><span></span>
+        </div>
 
-            <div class="hero-copy">
-                <p class="eyebrow">Il gusto prende aria</p>
-                <h1>Leggero sì.<br>Triste, mai.</h1>
-                <p class="hero-text">
-                    Ricette sfiziose per la friggitrice ad aria, con calorie,
-                    tempi e indicazioni alimentari sempre in primo piano.
-                </p>
-            </div>
-
-            <div class="feature-list" aria-label="Caratteristiche del servizio">
-                <div class="feature">
-                    <span class="feature-icon" aria-hidden="true">°C</span>
-                    <div><strong>Cottura precisa</strong><span>Tempi e temperature</span></div>
-                </div>
-                <div class="feature">
-                    <span class="feature-icon" aria-hidden="true">kcal</span>
-                    <div><strong>Calorie chiare</strong><span>Totali e per porzione</span></div>
-                </div>
-                <div class="feature">
-                    <span class="feature-icon feature-icon--leaf" aria-hidden="true">◇</span>
-                    <div><strong>Per ogni esigenza</strong><span>Anche senza glutine o latticini</span></div>
-                </div>
-            </div>
-            <p class="brand-note">La cucina leggera, con carattere.</p>
-        </aside>
-
-        <main class="chat-container">
-            <header class="chat-header">
-                <div class="chef-avatar" aria-hidden="true">CA</div>
-                <div class="chat-title">
-                    <div class="name-row">
-                        <h2>Chef Aria</h2>
-                        <span class="status-dot" title="Online"></span>
-                    </div>
-                    <p>Il tuo chef per la friggitrice ad aria</p>
-                </div>
-                <button id="clear-chat" class="clear-chat" type="button" title="Inizia una nuova chat">
-                    <svg viewBox="0 0 24 24" aria-hidden="true">
-                        <path d="M4 4v6h6M20 20v-6h-6M5.5 15a7 7 0 0 0 11.8 2.3L20 14M4 10l2.7-3.3A7 7 0 0 1 18.5 9"/>
-                    </svg>
-                    <span>Nuova chat</span>
-                </button>
-            </header>
-
-            <section id="messages" aria-live="polite" aria-label="Conversazione">
-                <div class="welcome-message">
-                    <div class="welcome-icon" aria-hidden="true">✦</div>
+        <div class="site-frame">
+            <aside class="intro-panel" aria-label="Presentazione di Chef Aria">
+                <div class="brand-row">
+                    <div class="brand-seal" aria-hidden="true">CA</div>
                     <div>
-                        <p class="welcome-kicker">Benvenuto nella mia cucina</p>
-                        <h2>Dimmi cosa hai in frigo,<br>al resto penso io.</h2>
+                        <strong>Chef Aria</strong>
+                        <span>Napoli, Campania</span>
+                    </div>
+                </div>
+
+                <div class="vesuvio-card" aria-hidden="true">
+                    <svg viewBox="0 0 520 190" role="img">
+                        <circle cx="415" cy="46" r="27" />
+                        <path d="M38 145h444" />
+                        <path d="M64 145 190 76l45 23 48-55 166 101" />
+                        <path d="M254 78c18-8 34-7 49 1" />
+                        <path d="M28 162c80-13 132 12 210 0s141-14 254 0" />
+                        <path d="M32 178c70-12 137 11 208 0s151-12 248 0" />
+                    </svg>
+                    <p>Dal golfo alla friggitrice</p>
+                </div>
+
+                <div class="intro-copy">
+                    <p class="small-label">
+                        Ricette leggere, sapore napoletano
+                    </p>
+                    <h1>Chef Aria<br /><span>di Napoli</span></h1>
+                    <p>Nu ricettario piccirill ma fatt co' u core!</p>
+                </div>
+
+                <ol class="how-it-works">
+                    <li>
+                        <b>1</b><span>Scrivi che cosa vorresti mangiare</span>
+                    </li>
+                    <li>
+                        <b>2</b><span>Lo chef guarda nel suo ricettario</span>
+                    </li>
+                    <li>
+                        <b>3</b><span>Ricevi ingredienti e procedimento</span>
+                    </li>
+                </ol>
+
+                <div class="tile-row" aria-hidden="true">
+                    <span></span><span></span><span></span><span></span
+                    ><span></span><span></span><span></span>
+                </div>
+            </aside>
+
+            <main class="chat-panel">
+                <header class="chat-header">
+                    <div class="chef-stamp" aria-hidden="true">
+                        <span>CHEF</span>
+                        <strong>ARIA</strong>
+                    </div>
+                    <div class="chat-title">
+                        <h2>'A cucina du Chef</h2>
+                        <p>Ricett' pe' 'a friggitrice ad aria</p>
+                    </div>
+                    <button
+                        id="clear-chat"
+                        class="clear-chat"
+                        type="button"
+                        title="Svuota la conversazione"
+                    >
+                        Svuota
+                    </button>
+                </header>
+
+                <section
+                    id="messages"
+                    aria-live="polite"
+                    aria-label="Conversazione con Chef Aria"
+                >
+                    <div class="welcome-message">
+                        <p class="napoli-greeting">Uè, buongiorno!</p>
+                        <h2>Che vuò cucenà?</h2>
                         <p>
-                            Ti propongo ricette light, croccanti e piene di gusto.
-                            Puoi chiedermi anche piatti senza glutine o senza latticini.
+                            Scrivimi un ingrediente oppure il tipo di piatto che
+                            cerchi. Io controllo il ricettario e ti dico subito
+                            che si può fare.
                         </p>
                     </div>
-                </div>
 
-                <div class="prompt-guide" aria-label="Esempi di domande">
-                    <span>Prova a chiedere</span>
-                    <div class="prompt-list">
-                        <button type="button" data-prompt="Una cena con pollo sotto le 500 kcal">
-                            Una cena con pollo sotto le 500 kcal
-                        </button>
-                        <button type="button" data-prompt="Un dolce senza glutine e senza latticini">
-                            Un dolce senza glutine e latticini
-                        </button>
+                    <div class="prompt-guide" aria-label="Esempi di domande">
+                        <p>Se non sai da dove cominciare, prova così:</p>
+                        <div class="prompt-list">
+                            <button
+                                type="button"
+                                data-prompt="Vorrei una ricetta con pollo"
+                            >
+                                Vorrei una ricetta con pollo
+                            </button>
+                            <button
+                                type="button"
+                                data-prompt="Vorrei una ricetta con merluzzo"
+                            >
+                                Vorrei una ricetta con merluzzo
+                            </button>
+                        </div>
                     </div>
-                </div>
-            </section>
+                </section>
 
-            <div class="composer-area">
-                <form id="chat-form">
-                    <label class="sr-only" for="message">Scrivi la tua richiesta</label>
-                    <input id="message" type="text" placeholder="Che cosa cuciniamo oggi?" autocomplete="off" maxlength="500" required>
-                    <button type="submit" aria-label="Invia il messaggio">
-                        <span>Invia</span>
-                        <svg viewBox="0 0 24 24" aria-hidden="true">
-                            <path d="m5 12 14-7-4 14-3-6-7-1Z"/>
-                        </svg>
-                    </button>
-                </form>
-                <p class="composer-note">
-                    Le calorie sono indicative: verifica sempre le etichette degli ingredienti.
-                </p>
-            </div>
-        </main>
-    </div>
-    <script src="/static/app.js"></script>
-</body>
+                <div class="composer-area">
+                    <form id="chat-form">
+                        <label for="message">Che vuoi cucinare?</label>
+                        <div class="input-row">
+                            <input
+                                id="message"
+                                type="text"
+                                placeholder="Per esempio: una ricetta con pollo"
+                                autocomplete="off"
+                                maxlength="500"
+                                required
+                            />
+                            <button type="submit">Invia</button>
+                        </div>
+                    </form>
+                    <p class="composer-note">
+                        Le risposte vengono dal ricettario di Chef Aria di
+                        Napoli.
+                    </p>
+                </div>
+            </main>
+        </div>
+
+        <script src="/static/app.js"></script>
+    </body>
 </html>

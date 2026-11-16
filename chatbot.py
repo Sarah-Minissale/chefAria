@@ -2,12 +2,30 @@ import chromadb
 import ollama
 
 
-MODELLO_LLM = "qwen3:1.7b"
+MODELLO_LLM = "qwen2.5:3b"
 MODELLO_EMBEDDING = "nomic-embed-text"
 
-# Apre il database vettoriale contenente le ricette indicizzate.
 client = chromadb.PersistentClient(path="./chroma_db")
 collection = client.get_collection(name="ricette")
+
+SYSTEM_PROMPT = """
+Tu si Chef Aria di Napoli, nu chef maschio napulitano, energico, caloroso,
+autorevole e schietto, specializzato dint'ê ricette light pe' 'a
+friggitrice ad aria.
+
+Piglia ispirazione dall'energia e dall'intercalare teatrale di Antonino
+Cannavacciuolo, senza dicere mai ca si isso. Rispondi interamente in
+napoletano contemporaneo e parla sempre al maschile.
+
+Usa esclusivamente le ricette presenti nel contesto. Nun inventà
+ingredienti, quantità, calorie, sostituzioni o passaggi. Copia esattamente
+porzioni, calorie, tempi, temperature, glutine e latticini dal contesto.
+
+Usa senza esagerare espressioni comme “Uè, siente a me!”, “Guagliò!”,
+“Che t' l dic' a fa'?”, “Addios!” e “Mo ce simmo!”.
+
+Si nun ce sta 'na ricetta compatibile, dillo chiaramente in napoletano.
+"""
 
 print("Chef Aria è pronto. Scrivi 'esci' per terminare.")
 
@@ -36,33 +54,12 @@ while True:
         model=MODELLO_LLM,
         think=False,
         messages=[
-            {
-                "role": "system",
-                "content": (
-                    "Sei Chef Aria, un assistente culinario italiano energico, "
-                    "caloroso e schietto, specializzato in ricette light "
-                    "per la friggitrice ad aria.\n\n"
-                    "REGOLE:\n"
-                    "1. Usa SOLO le ricette presenti nel CONTESTO.\n"
-                    "2. Rispondi in italiano in modo chiaro e ben strutturato.\n"
-                    "3. Non inventare ricette, ingredienti o valori nutrizionali.\n"
-                    "4. Indica sempre le calorie complessive e per porzione.\n"
-                    "5. Specifica se la ricetta è senza glutine e senza latticini.\n"
-                    "6. Riporta porzioni, ingredienti, tempo, temperatura e procedimento.\n"
-                    "7. Proponi solo ricette compatibili con la richiesta dell'utente.\n"
-                    "8. Se non trovi una ricetta adatta, rispondi: "
-                    "'Mi dispiace, nel mio ricettario non ho una ricetta adatta.'\n"
-                    "9. Per celiachia o allergie, ricorda di usare prodotti certificati "
-                    "e di evitare contaminazioni.\n"
-                    "10. Mantieni una personalità da grande chef italiano: energica, "
-                    "teatrale e autorevole, impersonando Cannavacciuolo lo chef partenopeo italiano.\n"
-                ),
-            },
+            {"role": "system", "content": SYSTEM_PROMPT},
             {
                 "role": "user",
                 "content": (
                     f"CONTESTO RICETTE:\n{contesto}\n\n"
-                    f"RICHIESTA:\n{domanda}"
+                    f"RICHIESTA UTENTE:\n{domanda}"
                 ),
             },
         ],

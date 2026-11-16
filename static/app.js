@@ -12,7 +12,10 @@ function addMessage(text, role, { pending = false } = {}) {
 
     if (pending) {
         message.classList.add("is-loading");
-        message.setAttribute("aria-label", "Chef Aria sta preparando la risposta");
+        message.setAttribute(
+            "aria-label",
+            "Chef Aria di Napoli sta preparando la risposta",
+        );
     }
 
     messages.appendChild(message);
@@ -39,15 +42,17 @@ async function sendMessage(text) {
     input.value = "";
     setLoading(true);
 
-    const placeholder = addMessage("Sto preparando qualcosa di buono", "bot", {
-        pending: true
-    });
+    const placeholder = addMessage(
+        "Aspetta nu poco, sto sfogliando 'o ricettario",
+        "bot",
+        { pending: true },
+    );
 
     try {
         const response = await fetch("/api/chat", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ message })
+            body: JSON.stringify({ message }),
         });
 
         let data = {};
@@ -72,8 +77,7 @@ async function sendMessage(text) {
         placeholder.classList.remove("is-loading");
         placeholder.classList.add("is-error");
         placeholder.removeAttribute("aria-label");
-        placeholder.textContent =
-            `Non riesco a raggiungere la cucina in questo momento. ${error.message}`;
+        placeholder.textContent = `Non riesco a raggiungere la cucina in questo momento. ${error.message}`;
         console.error(error);
     } finally {
         setLoading(false);
@@ -95,7 +99,9 @@ promptButtons.forEach((button) => {
 });
 
 clearButton.addEventListener("click", () => {
-    messages.querySelectorAll(".message").forEach((message) => message.remove());
+    messages
+        .querySelectorAll(".message")
+        .forEach((message) => message.remove());
     messages.classList.remove("has-conversation");
     input.value = "";
     input.focus();

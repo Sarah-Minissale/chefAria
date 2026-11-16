@@ -1,125 +1,308 @@
-RICETTA: Bocconcini di pollo alla paprika
-DESCRIZIONE: Pollo speziato, dorato fuori e morbido dentro.
-PORZIONI: 2
-CALORIE COMPLESSIVE: circa 620 kcal
-CALORIE PER PORZIONE: circa 310 kcal
-SENZA GLUTINE: sì
-SENZA LATTICINI: sì
-TEMPO TOTALE: 24 minuti
-TEMPERATURA: 190 °C
-INGREDIENTI:
-- 400 g di petto di pollo
-- 10 g di olio extravergine d'oliva
-- 1 cucchiaino di paprika dolce
-- mezzo cucchiaino di aglio in polvere
-- sale e pepe
-PROCEDIMENTO:
-1. Taglia il pollo in bocconcini della stessa dimensione.
-2. Condiscilo con olio, paprika, aglio, sale e pepe.
-3. Preriscalda la friggitrice ad aria per 3 minuti.
-4. Sistema il pollo nel cestello senza sovrapporlo.
-5. Cuoci per 16 minuti, scuotendo il cestello a metà cottura.
+RICETTA: Straccetti 'e pollo cu 'e cucuzzielle
 
----
+CATEGORIA: Cena
+TIEMPO: 12-15 minuti
+TEMPERATURA: 180°C
+SENZA GLUTINE: DATO NON DISPONIBILE
+SENZA LATTICINE: DATO NON DISPONIBILE
 
-RICETTA: Salmone al limone con zucchine
-DESCRIZIONE: Un secondo completo, profumato e ricco di proteine.
-PORZIONI: 2
-CALORIE COMPLESSIVE: circa 780 kcal
-CALORIE PER PORZIONE: circa 390 kcal
-SENZA GLUTINE: sì
-SENZA LATTICINI: sì
-TEMPO TOTALE: 22 minuti
-TEMPERATURA: 180 °C
-INGREDIENTI:
-- 2 filetti di salmone da 150 g ciascuno
-- 300 g di zucchine
-- 10 g di olio extravergine d'oliva
-- scorza e succo di mezzo limone
-- aneto
-- sale e pepe
-PROCEDIMENTO:
-1. Taglia le zucchine a mezze lune e condiscile con metà dell'olio.
-2. Condisci il salmone con l'olio restante, il limone, l'aneto, il sale e il pepe.
-3. Cuoci le zucchine per 7 minuti.
-4. Aggiungi il salmone nel cestello.
-5. Prosegui la cottura per 10 minuti.
-
----
-
-RICETTA: Falafel leggeri alle erbe
-DESCRIZIONE: Bocconcini vegetali speziati, croccanti fuori e morbidi dentro.
-PORZIONI: 4
-CALORIE COMPLESSIVE: circa 760 kcal
-CALORIE PER PORZIONE: circa 190 kcal
-SENZA GLUTINE: sì
-SENZA LATTICINI: sì
-TEMPO TOTALE: 32 minuti
-TEMPERATURA: 190 °C
-INGREDIENTI:
-- 480 g di ceci cotti e scolati
-- mezza cipolla
-- 20 g di farina di ceci
-- prezzemolo e coriandolo
-- 10 g di olio extravergine d'oliva
-- cumino
-- sale e pepe
-PROCEDIMENTO:
-1. Asciuga bene i ceci.
-2. Frulla grossolanamente i ceci con la cipolla, le erbe e le spezie.
-3. Aggiungi la farina di ceci e forma 16 falafel.
-4. Spennellali con l'olio e sistemali nel cestello.
-5. Cuoci per 15 minuti, girandoli a metà cottura.
-
----
-
-RICETTA: Parmigiana light di melanzane
-DESCRIZIONE: Una versione più leggera della parmigiana, senza rinunciare al gusto.
-PORZIONI: 4
-CALORIE COMPLESSIVE: circa 1040 kcal
-CALORIE PER PORZIONE: circa 260 kcal
-SENZA GLUTINE: sì
-SENZA LATTICINI: no
-TEMPO TOTALE: 45 minuti
-TEMPERATURA: 185 °C
-INGREDIENTI:
-- 2 melanzane
-- 400 g di passata di pomodoro
-- 180 g di mozzarella light
-- 30 g di parmigiano grattugiato
-- 10 g di olio extravergine d'oliva
-- basilico
+CHELLO CA SERVE:
+- 200 g 'e pietto 'e pollo a strisce
+- 1 cucuzziello gruosso
+- 1 cucchiariello d'uoglio extravergine
+- limone
+- ariano
 - sale
-PROCEDIMENTO:
-1. Affetta le melanzane e spennellale con poco olio.
-2. Cuocile per 12 minuti, girandole una volta.
-3. In una teglia adatta, alterna melanzane, passata, mozzarella e parmigiano.
-4. Sistema la teglia nel cestello.
-5. Cuoci per altri 12 minuti, fino a ottenere una superficie dorata.
+
+COMM'A FACIMMO:
+1. Ammesca tutto dint' a 'na ciotola.
+2. Metti tutto dint' ô cestello.
+3. Coce a 180°C pe' 12-15 minuti.
+4. Sbatte 'o cestello a metà cottura.
 
 ---
 
-RICETTA: Brownie alla banana e cacao
-DESCRIZIONE: Un dolce morbido al cacao, preparato senza burro e senza farine con glutine.
-PORZIONI: 6
-CALORIE COMPLESSIVE: circa 900 kcal
-CALORIE PER PORZIONE: circa 150 kcal
-SENZA GLUTINE: sì
-SENZA LATTICINI: sì
-TEMPO TOTALE: 28 minuti
-TEMPERATURA: 160 °C
-INGREDIENTI:
-- 2 banane mature
-- 2 uova
-- 80 g di farina di mandorle
-- 30 g di cacao amaro certificato senza glutine
-- 30 g di zucchero di canna
-- 1 cucchiaino di lievito certificato senza glutine
-PROCEDIMENTO:
-1. Schiaccia le banane fino a ottenere una crema.
-2. Aggiungi le uova e mescola bene.
-3. Incorpora la farina di mandorle, il cacao, lo zucchero e il lievito.
-4. Versa l'impasto in uno stampo adatto alla friggitrice ad aria.
-5. Cuoci per 18 minuti e lascia intiepidire prima di tagliare il brownie.
+RICETTA: Merluzzo scaurato e arrecreato
 
-NOTA GENERALE: i valori calorici sono indicativi e possono variare in base alle marche e alle quantità effettivamente utilizzate. In caso di celiachia o allergie, utilizzare esclusivamente prodotti certificati e prevenire ogni contaminazione.
+CATEGORIA: Cena
+TIEMPO: 10 minuti
+TEMPERATURA: 180°C
+
+CHELLO CA SERVE:
+- 2 filetti 'e merluzzo
+- 2 cucchiare 'e pane grattato
+- scorza 'e limone
+- prezzemolo
+- 'nu filo d'uoglio
+
+COMM'A FACIMMO:
+1. Ammesca 'o pane grattato cu limone e prezzemolo.
+2. Passa 'o merluzzo dint' ô pane grattato.
+3. Coce a 180°C pe' 10 minuti.
+
+---
+
+RICETTA: Frittata 'e maccarune
+
+DESCRIZIONE: 'Na frittata 'e spaghetti sapurita, dorata fore e morbida a dinto.
+CATEGURIA: Pranzo
+PURZIONE: 4
+TIEMPO 'E PREPARAZIONE: 10 minuti
+TIEMPO 'E COTTURA: 18-22 minuti
+TEMPERATURA: 180°C
+SENZA GLUTINE: no
+SENZA LATTICINE: no
+
+CHELLO CA SERVE:
+- 250 g 'e spaghetti già cuotte
+- 4 ova
+- 50 g 'e parmigiano grattugiato
+- 80 g 'e provola asciutta
+- pepe
+- sale
+- 'nu poco d'uoglio
+
+COMM'A FACIMMO:
+1. Vatte ll'ova cu 'o parmigiano, 'o sale e 'o pepe.
+2. Aggiunge 'e spaghetti e 'a provola tagliata a dadini.
+3. Vota tutto dint' a 'na teglia 'e 18-20 cm, leggermente unta.
+4. Coce a 180°C pe' 18-22 minuti, fino a quanno 'a superficie è dorata e 'o centro è asciutto.
+
+---
+
+RICETTA: Gattò 'e patane napulitano
+
+DESCRIZIONE: Nu sformato 'e patane ricco, filante e cu 'na bella crosta dorata.
+CATEGURIA: Pranzo
+PURZIONE: 4
+TIEMPO 'E PREPARAZIONE: 30 minuti
+TIEMPO 'E COTTURA: 20-25 minuti
+TEMPERATURA: 180°C
+SENZA GLUTINE: no
+SENZA LATTICINE: no
+
+CHELLO CA SERVE:
+- 800 g 'e patane
+- 2 ova
+- 80 g 'e parmigiano grattugiato
+- 120 g 'e provola
+- 100 g 'e salame napulitano
+- 30 g 'e pane grattato
+- 20 g 'e burro
+- sale
+- pepe
+
+COMM'A FACIMMO:
+1. Fa vollere 'e patane, pelale e schiacciale.
+2. Aggiunge ll'ova, 'o parmigiano, 'o salame, 'a provola, 'o sale e 'o pepe.
+3. Metti tutto dint' a 'na teglia imburrata e cuperta 'e pane grattato.
+4. Copre cu n'ato poco 'e pane grattato e quacche fiocco 'e burro.
+5. Coce a 180°C pe' 20-25 minuti, fino a quanno se forma 'a crosta.
+
+---
+
+RICETTA: Sasicce e friarielli
+
+DESCRIZIONE: 'O piatto napulitano cu 'e sasicce arrustute e 'e friarielli sapuriti.
+CATEGURIA: Pranzo
+PURZIONE: 4
+TIEMPO 'E PREPARAZIONE: 15 minuti
+TIEMPO 'E COTTURA: circa 25 minuti
+TEMPERATURA: 180-190°C
+SENZA GLUTINE: dipenne d'ê sasicce; cuntrullà ll'etichetta
+SENZA LATTICINE: dipenne d'ê sasicce; cuntrullà ll'etichetta
+
+CHELLO CA SERVE:
+- 4 sasicce
+- 600 g 'e friarielli puliti
+- 1 spicchio d'aglio
+- cerasiello
+- 15 g d'uoglio extravergine d'uliva
+- sale
+
+COMM'A FACIMMO:
+1. Metti 'e friarielli dint' a 'na teglia adatta ô cestello cu ll'aglio, ll'uoglio, 'o cerasiello e 'o sale.
+2. Coce a 180°C pe' 10-12 minuti e votale a metà cottura.
+3. Coce 'e sasicce a 190°C pe' 15-18 minuti e girale a metà cottura.
+4. Aggiunge 'e friarielli dint' ô cestello pe' ll'urdeme 5 minuti.
+
+---
+
+RICETTA: Mini pastiere napulitane
+
+DESCRIZIONE: 'E pastiere piccerelle cu ricotta, grano e prufumo 'e millefiori.
+CATEGURIA: Doce
+PEZZE: 6
+TIEMPO 'E PREPARAZIONE: 25 minuti
+TIEMPO 'E COTTURA: 25-30 minuti
+TEMPERATURA: 150°C
+SENZA GLUTINE: no
+SENZA LATTICINE: no
+
+CHELLO CA SERVE:
+- 250 g 'e pasta frolla
+- 250 g 'e ricotta
+- 150 g 'e grano cotto
+- 120 g 'e zucchero
+- 1 ovo
+- 1 russo d'ovo
+- 50 ml 'e latte
+- 50 g 'e scorzette d'arancia candita
+- acqua 'e millefiori
+- cannella
+
+COMM'A FACIMMO:
+1. Ammesca 'a ricotta cu 'o zucchero.
+2. Aggiunge ll'ovo, 'o russo d'ovo, 'o grano, 'o latte, 'e candite, 'o millefiori e 'a cannella.
+3. Fodera 6 stampini cu 'a pasta frolla.
+4. Jette 'o ripieno e fa 'e strisce cu 'a frolla avanzata.
+5. Coce a 150°C pe' 25-30 minuti e falle arrifriscà buono primma 'e cacciarle d'ê stampini.
+
+---
+
+RICETTA: Torta caprese
+
+DESCRIZIONE: Nu doce 'e Capri cu cioccolato e mandorle, umido a dinto e senza farina.
+CATEGURIA: Doce
+PURZIONE: 6
+TIEMPO 'E PREPARAZIONE: 20 minuti
+TIEMPO 'E COTTURA: 27-30 minuti
+TEMPERATURA: 150°C
+SENZA GLUTINE: sì, si tutt' 'e prudotte so' certificate
+SENZA LATTICINE: no
+
+CHELLO CA SERVE:
+- 100 g 'e cioccolato funnente
+- 100 g 'e mandorle
+- 80 g 'e burro
+- 90 g 'e zucchero
+- 2 ova
+- 25 g 'e cacao amaro
+- 'nu pizzico 'e sale
+
+COMM'A FACIMMO:
+1. Trita 'e mandorle e 'o cioccolato.
+2. Lavora 'o burro cu 'o zucchero e aggiunge ll'ova uno â vota.
+3. Aggiunge 'o cacao, 'o sale, 'e mandorle e 'o cioccolato.
+4. Vota tutto dint' a 'nu stampo 'e 16-18 cm.
+5. Coce a 150°C pe' 27-30 minuti e falla arrifriscà primma 'e cacciarla d'ô stampo.
+
+---
+
+RICETTA: Graffe napulitane
+
+DESCRIZIONE: Ciambelle doce e soffice, cu 'o prufumo 'e limone e 'a cuperta 'e zucchero.
+CATEGURIA: Doce
+PEZZE: 8
+TIEMPO 'E PREPARAZIONE: 30 minuti, cchiù 'a lievitazione
+TIEMPO 'E COTTURA: 6-8 minuti
+TEMPERATURA: 180°C
+SENZA GLUTINE: no
+SENZA LATTICINE: no
+
+CHELLO CA SERVE:
+- 300 g 'e farina
+- 100 g 'e patana lessa
+- 1 ovo
+- 60 ml 'e latte
+- 40 g 'e burro
+- 40 g 'e zucchero
+- 7 g 'e lievito secco
+- scorza 'e limone
+- 'nu pizzico 'e sale
+- zucchero pe' 'a cuperta
+
+COMM'A FACIMMO:
+1. 'Mposta tutt' 'e ingredienti e fa lievità fino ô raddoppio.
+2. Forma 'e ciambelle e falle lievità n'ati 45 minuti.
+3. Coce poche graffe â vota a 180°C pe' 6-8 minuti e girale a metà cottura.
+4. Spennellale ancora cavere cu 'nu poco 'e burro e passale dint' ô zucchero.
+
+---
+
+RICETTA: Panini napulitani
+
+DESCRIZIONE: Panini rustici, soffice e chiene 'e salame, provolone e ovo tuosto.
+CATEGURIA: Merenna
+PEZZE: 8
+TIEMPO 'E PREPARAZIONE: 20 minuti
+TIEMPO 'E COTTURA: 12-15 minuti
+TEMPERATURA: 180°C
+SENZA GLUTINE: no
+SENZA LATTICINE: no
+
+CHELLO CA SERVE:
+- 400 g 'e pasta pe' pizza
+- 100 g 'e salame napulitano
+- 100 g 'e provolone
+- 1 ovo tuosto
+- 30 g 'e parmigiano grattugiato
+- pepe
+- 1 russo d'ovo
+
+COMM'A FACIMMO:
+1. Stenne 'a pasta e sparte ncoppa 'o salame, 'o provolone, ll'ovo tuosto, 'o parmigiano e 'o pepe.
+2. Arrotola 'a pasta e tagliala a 8 pezze.
+3. Spennella 'e panini cu 'o russo d'ovo.
+4. Coce a 180°C pe' 12-15 minuti senza accavallà 'e panini.
+
+---
+
+RICETTA: Crocchè 'e patane
+
+DESCRIZIONE: Panzarotti 'e patane croccanti fore, morbidi e filanti a dinto.
+CATEGURIA: Merenna
+PEZZE: 10
+TIEMPO 'E PREPARAZIONE: 35 minuti
+TIEMPO 'E COTTURA: 12-15 minuti
+TEMPERATURA: 190°C
+SENZA GLUTINE: no
+SENZA LATTICINE: no
+
+CHELLO CA SERVE:
+- 600 g 'e patane
+- 1 ovo
+- 50 g 'e parmigiano grattugiato
+- 100 g 'e mozzarella asciutta
+- petrusino
+- pane grattato
+- sale
+- pepe
+- 'nu poco d'uoglio
+
+COMM'A FACIMMO:
+1. Fa vollere 'e patane, pelale e schiacciale.
+2. Aggiunge ll'ovo, 'o parmigiano, 'o petrusino, 'o sale e 'o pepe.
+3. Forma 'e crocchè e metti 'nu piezzo 'e mozzarella mmiez' a ognuno.
+4. Passale dint' ô pane grattato e spruzzale cu 'nu poco d'uoglio.
+5. Coce a 190°C pe' 12-15 minuti e girale a metà cottura.
+
+---
+
+RICETTA: Taralli 'nzogna e pepe
+
+DESCRIZIONE: 'E taralli napulitani cu 'a 'nzogna, 'o pepe e 'e mandorle.
+CATEGURIA: Merenna
+PEZZE: circa 10
+TIEMPO 'E PREPARAZIONE: 50 minuti, cchiù 2-3 ore 'e lievitazione
+TIEMPO 'E COTTURA: circa 20 minuti
+TEMPERATURA: 160°C
+SENZA GLUTINE: no
+SENZA LATTICINE: sì
+
+CHELLO CA SERVE:
+- 250 g 'e farina 00
+- 100 g 'e 'nzogna
+- 90 ml d'acqua
+- 4 g 'e lievito 'e birra frisco
+- 100 g 'e mandorle
+- 10 g 'e sale
+- 2 g 'e pepe niro macinato
+- miezo cucchiariello 'e zucchero
+
+COMM'A FACIMMO:
+1. Fa 'nu lievitino cu 'nu poco 'e farina, acqua, lievito e zucchero.
+2. Aggiunge 'a farina e ll'acqua ca restano, 'a 'nzogna, 'o sale, 'o pepe e 'e mandorle spezzettate.
+3. Fa 'e curduncielle, 'ntrezzane duje â vota e chiudile a ciambella.
+4. Falle lievità pe' 2-3 ore.
+5. Coce a 160°C pe' circa 20 minuti, fino a quanno so' asciutte e dorate.
